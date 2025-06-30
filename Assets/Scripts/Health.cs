@@ -63,7 +63,7 @@ public class Health : MonoBehaviour
         {
             levelManager.LoadGameOver();
         }
-            Destroy(gameObject);
+        Destroy(gameObject);
     }
 
     void PlayHitEffect()

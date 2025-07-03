@@ -48,4 +48,7 @@
 ![screenshot](gameover.png)
 
 ---
-
+## 🚀 Cách cài đặt
+- B1: Clone repo về máy
+- B2: Mở bằng Unity
+- B3: Chạy Scene MainMenu hoặc build để chơi
